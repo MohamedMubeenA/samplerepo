@@ -1,5 +1,2 @@
 
-1) Git Learning Today
-> git init
-> git add
-> git commit -m "update message"
+Ok, Go Ahead 
